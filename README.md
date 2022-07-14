@@ -69,4 +69,22 @@ Inicie o servidor
 
 **Front-end:** React, React
 
-**Back-end:** Node, graphql
+**Back-end:** Node, graphql, apolo, mongoose
+
+
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/5RGXAzf.png)
+![App Screenshot](https://i.imgur.com/mRw79Qw.png)
+![App Screenshot](https://i.imgur.com/hvkxLeW.png)
+
+
+
+
+
+## Usado por
+
+Esse projeto é usado pelas seguintes empresas:
+
+- Paróquia Santo Antônio - Imbituva-Pr
