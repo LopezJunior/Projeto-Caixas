@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Arroz",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Farofa",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Maionese",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Salada",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Pão",
+    "valor": 3,
+    "image": ""
+  },
+  {
+    "nome": "Churrasco",
+    "valor": 65,
+    "image": ""
+  },
+  {
+    "nome": "Bolo St Antônio",
+    "valor": 5,
+    "image": ""
+  }
+]

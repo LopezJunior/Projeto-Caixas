@@ -1,0 +1,83 @@
+body {
+  width: 100%;
+  height: 50mm;
+  margin: 0;
+  padding: 0;
+  font: 48pt "Tahoma";
+}
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+.pagina {
+  top: -50px;
+  width: 100%;
+  min-height: 5mm;
+  padding: 2mm;
+  margin-top: -20mm auto;
+  border: 1px black solid;
+  border-radius: 1px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 10 0 5px rgba(0, 0, 0, 0.1);
+  page-break-after: always;
+  page-break-before: always;
+}
+.sub-pagina {
+  padding: 0cm;
+  margin-top: -10px;
+  border: 1px black solid;
+  height: 50mm;
+  page-break-before: always;
+}
+
+@media print {
+  * {
+    background: black;
+    color: white;
+    text-shadow: none;
+    filter: none;
+    -ms-filter: none;
+    font-size: 20px;
+  }
+  html,
+  body {
+    width: 80mm;
+    height: 50mm;
+  }
+  .pagina {
+    top: -50px;
+    width: 100%;
+    min-height: 5mm;
+    padding: 2mm;
+    margin-top: -20mm auto;
+    border: 1px black solid;
+    border-radius: 1px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 10 0 5px rgba(0, 0, 0, 0.1);
+    page-break-after: always;
+    page-break-before: always;
+  }
+  .sub-pagina {
+    padding: 0cm;
+    margin-top: -10px;
+    border: 1px black solid;
+    height: 50mm;
+    page-break-before: always;
+  }
+  .titulo {
+    text-align: center;
+    font-weight: bold;
+  }
+  .preco {
+    text-align: center;
+  }
+  .descricao {
+    text-align: center;
+  }
+  .barraquinha {
+    text-align: center;
+    font-weight: bold;
+  }
+}

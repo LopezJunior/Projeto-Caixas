@@ -1,0 +1,58 @@
+.fixa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+.fixa div {
+  margin: 50px;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  background-color: #3f51b5;
+  color: white;
+  font-size: 25px;
+  height: 50px;
+}
+.fixa span {
+  max-width: 300px;
+  margin-right: 20px;
+}
+.fixa a {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: roboto;
+  border-radius: 10px;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.fixa a:hover {
+  transform: scale(1.2);
+  transition-property: transform;
+  transition-duration: 3s;
+}
+
+#vendas {
+  background: rgb(182, 130, 88);
+  box-shadow: 5px -5px rgba(82, 82, 82, 0.068);
+}
+
+#relatorio {
+  background-color: aquamarine;
+  box-shadow: 5px -5px rgba(82, 82, 82, 0.068);
+}
+
+#produto {
+  background-color: tomato;
+  box-shadow: 5px -5px rgba(82, 82, 82, 0.068);
+}
+
+.makeStyles-card-5 {
+  background-color: #3f51b5;
+}

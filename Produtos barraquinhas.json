@@ -1,0 +1,75 @@
+[
+  {
+    "nome": "Agua",
+    "valor": 3,
+    "image": ""
+  },
+  {
+    "nome": "Cerveja",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Refrigerante",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Quentão",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Espetinho",
+    "valor": 8,
+    "image": ""
+  },
+  {
+    "nome": "Pastel",
+    "valor": 5,
+    "image": ""
+  },
+  {
+    "nome": "Bolo",
+    "valor": 2,
+    "image": ""
+  },
+
+  {
+    "nome": "Pinhão",
+    "valor": 3,
+    "image": ""
+  },
+  {
+    "nome": "Algodão Doce",
+    "valor": 2,
+    "image": "re"
+  },
+
+  {
+    "nome": "Paçoca",
+    "valor": 0.5,
+    "image": ""
+  },
+
+  {
+    "nome": "Pipoca",
+    "valor": 2,
+    "image": ""
+  },
+  {
+    "nome": "Canjica",
+    "valor": 4,
+    "image": ""
+  },
+  {
+    "nome": "Cri cri",
+    "valor": 2,
+    "image": ""
+  },
+  {
+    "nome": "Pescaria",
+    "valor": 1,
+    "image": ""
+  }
+]

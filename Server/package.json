@@ -1,0 +1,30 @@
+{
+  "name": "Projeto-Caixa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuninhoLindao/Projeto-Caixa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuninhoLindao/Projeto-Caixa/issues"
+  },
+  "homepage": "https://github.com/JuninhoLindao/Projeto-Caixa#readme",
+  "dependencies": {
+    "apollo-server": "^2.16.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
