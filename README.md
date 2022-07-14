@@ -7,33 +7,26 @@ Sistema utilizado para vendas de produtos
 #### Retorna Aplicação
 
 ```http
-  GET https://localhost:3000
-```
-
-#### Retorna produtos utilizados
-
-```http
-  GET https://localhost:3000/produtos
+  ttps://localhost:3000
 ```
 
 ## Autores
 
 - [@LopezJunior](https://github.com/LopezJunior)
 - [@MarlonHm](https://github.com/LopezJunior)
-- [@RamonLopez](https://github.com/jacare-camabox)
 
 ## Rodando localmente
 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/LopezJunior/Projeto-Caixa-Atualizado
+  git clone https://github.com/LopezJunior/Projeto-Caixas
 ```
 
-Entre no diretório do projeto
+Entre no diretório Server
 
 ```bash
-  cd projeto-caixa
+  cd Server
 ```
 
 Instale as dependências
@@ -42,9 +35,22 @@ Instale as dependências
   npm install
 ```
 
-```bash
-  npm install -g json-server
+Inicie o servidor
 
+```bash
+  npm start
+```
+
+Entre no diretório Client
+
+```bash
+  cd Client
+```
+
+Instale as dependências
+
+```bash
+  npm install
 ```
 
 Inicie o servidor
@@ -55,11 +61,12 @@ Inicie o servidor
 
 ## Funcionalidades
 
-- Tela de vendas de produtos
-- Tela de relatório total
+- Cadastro de produtos para venda
+- Relatório geral de vendas
+- Tela de vendas com produtos, total e troco
 
 ## Stack utilizada
 
-**Front-end:** React, Axios
+**Front-end:** React, React
 
-**Back-end:** Node, Json Server
+**Back-end:** Node, graphql
