@@ -247,7 +247,7 @@ export default function SimpleTable(props) {
         style={{ textAlign: "center", color: "black", fontSize: "16px" }}
         className="hora"
       >
-        {moment().format("DD/MM/YYYY HH:mm:ss ")}
+        {/* {moment().format("DD/MM/YYYY HH:mm:ss ")} */}
       </div>
     </>
   );

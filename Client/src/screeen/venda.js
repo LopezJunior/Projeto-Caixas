@@ -129,7 +129,7 @@ const Venda = () => {
         addVenda({
           variables: {
             festa: "1",
-            data: moment().format("DD/MM/YYYY HH:mm:ss "),
+            data: "",
             produto: produto.id.toString(),
             valor: produto.valor,
             quantidade: produto.quantidade,
