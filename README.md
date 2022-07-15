@@ -14,6 +14,7 @@ Sistema utilizado para vendas de produtos
 
 - [@LopezJunior](https://github.com/LopezJunior)
 - [@MarlonHm](https://github.com/LopezJunior)
+- [@RamonMarcelLopes](https://github.com/RamonMarcelLopes)
 
 ## Rodando localmente
 
